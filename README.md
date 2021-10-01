@@ -16,8 +16,8 @@ Your work may end up consisting of various python notebooks, screenshots of
 Kaggle entries and a word document. These should be zipped and uploaded to
 Moodle before the coursework deadline.
 
-## The competition metric is Area Under the ROC curve (AUCROC). We did not
-cover this in class (though one of the links covers it). Briefly:
+## The competition metric is Area Under the ROC curve (AUCROC). 
+Briefly:
 
 - You may think of it as the probability that two customers chosen at random will be correctly ranked for the risk of carrying out fraud.
 - If AUCROC is 0.50 it means there is a 50/50 chance of ranking any two
